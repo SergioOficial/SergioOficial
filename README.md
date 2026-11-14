@@ -31,7 +31,7 @@
 
 Soy un desarrollador enfocado en la creación de arquitecturas backend, automatización y sistemas Multi-Device. Mi objetivo es construir herramientas modulares, eficientes y escalables, con un código limpio y fácil de mantener.
 
-- 🛠️ **Actualmente**: Liderando el desarrollo de **[Ado-Bot](https://github.com/SergioOficial/Levi-bot)**, un ecosistema modular para WhatsApp basado en Node.js y Baileys.
+- 🛠️ **Actualmente**: Liderando el desarrollo de **[Ado-Bot](https://github.com/SergioOficial/ado-bot)**, un ecosistema modular para WhatsApp basado en Node.js y Baileys.
 - 🌱 **Aprendiendo**: Arquitecturas de microservicios, Inteligencia Artificial y optimización de bases de datos.
 - 💡 **Filosofía**: El código debe ser elegante, modular y no debe caerse.
 - 🎯 **Objetivo**: Contribuir a proyectos Open Source de alto impacto y seguir creando herramientas útiles para la comunidad.
@@ -63,8 +63,8 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
 ### 🌟 Proyecto Destacado
 
 <div align="center">
-  <a href="https://github.com/SergioOficial/Levi-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=Levi-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-Bot"/>
+  <a href="https://github.com/SergioOficial/ado-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-Bot"/>
   </a>
 </div>
 
