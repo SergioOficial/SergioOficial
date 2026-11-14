@@ -1,18 +1,18 @@
 <div align="center">
   <!-- BANNER SUPERIOR -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:ff007f&height=200&section=header&text=SergioOficial&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:ff007f&height=200&section=header&text=SergioOficial&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner"/>
   
   <!-- ANIMACIÓN DE TEXTO -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hola,+soy+Sergio+G%C3%B3mez+Gort;Desarrollador+de+Software+%26+Bots;Fundador+de+Ado-Bot;Apasionado+por+el+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hola,+soy+Sergio+G%C3%B3mez+Gort;Desarrollador+de+Software+%26+Bots;Fundador+de+Ado-Bot;Apasionado+por+el+Open+Source" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- SOBRE MÍ Y AVATAR -->
+<!-- FOTO Y REDES -->
 <div align="center">
-  <img src="https://github.com/SergioOficial.png" width="160" style="border-radius: 50%; border: 3px solid #00d4aa;" alt="Sergio Avatar"/>
+  <img src="https://github.com/SergioOficial.png" width="150" alt="Sergio Avatar"/>
   
   <h3>💻 Desarrollador Backend & Bot Developer</h3>
   
@@ -20,6 +20,8 @@
     <a href="https://wa.me/5358090650"><img src="https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
     <a href="https://github.com/SergioOficial/Levi-bot"><img src="https://img.shields.io/badge/Proyecto_Principal-Ado_Bot-00d4aa?style=flat-square&logo=github&logoColor=white" alt="Ado-Bot"/></a>
     <a href="https://github.com/SergioOficial?tab=followers"><img src="https://img.shields.io/github/followers/SergioOficial?color=ff007f&label=Seguidores&style=flat-square&logo=github" alt="Seguidores"/></a>
+    <!-- Contador de visitas (Muy estable) -->
+    <img src="https://komarev.com/ghpvc/?username=SergioOficial&label=Visitas&color=00d4aa&style=flat-square" alt="Visitas"/>
   </p>
 </div>
 
@@ -44,37 +46,29 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioOficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" height="165" alt="Stats de Sergio"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioOficial&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=ff007f&currStreakNum=c9d1d9&sideNums=c9d1d9" height="165" alt="Streak de Sergio"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" height="150" alt="Lenguajes"/>
+  <!-- Tarjeta de estadísticas principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioOficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" height="160" alt="Estadísticas de Sergio"/>
+  
+  <!-- Tarjeta de lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" height="160" alt="Lenguajes"/>
 </div>
 
 <br/>
-
-### 🏆 Trofeos de GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SergioOficial&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
 
 ---
 
 ### 🌟 Proyecto Destacado
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SergioOficial/Levi-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=Levi-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-Bot"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/SergioOficial/Levi-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=Levi-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-Bot"/>
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <p><i>"La automatización no es magia, es código bien escrito."</i></p>
@@ -83,8 +77,7 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
 ---
 
 <div align="center">
-  <!-- BANNER INFERIOR -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:00d4aa,100:0d1117&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00d4aa&height=120&section=footer" width="100%" alt="Footer Banner"/>
   <br/>
-  <i style="color: #8b8ba7;">Hecho con 💫 desde Cuba para el mundo</i>
+  <i>Hecho con 💫 desde Cuba para el mundo</i>
 </div>
