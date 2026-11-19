@@ -84,7 +84,6 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
             <img src="https://github.com/SergioOficial.png" width="80" style="border-radius: 50%;" alt="Sergio"/><br/>
             <b>¡Tú!</b><br/>
             <sub>Líder del Proyecto</sub>
-            
           </a>
         </td>
       </tr>
