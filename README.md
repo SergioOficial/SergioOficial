@@ -29,9 +29,9 @@
 
 ### 🚀 Sobre Mí
 
-Soy un desarrollador enfocado en la creación de arquitecturas backend, automatización y sistemas Multi-Device. Mi objetivo es construir herramientas modulares, eficientes y escalables, con un código limpio y fácil de mantener.
+Soy un desarrollador enfocado en la creación de arquitecturas backend, automatización y sistemas Multi-Device. Mi objetivo es construir herramientas modulares, eficientes y escalables, con un código limpio y fácil de mantener, además de ser autómata.
 
-- 🛠️ **Actualmente**: Liderando el desarrollo de **[Ado-Bot](https://github.com/SergioOficial/Ado-Bot)**, un ecosistema modular para WhatsApp basado en Node.js y Baileys.
+- 🛠️ **Actualmente**: Liderando el desarrollo de **[Ado-Bot](https://github.com/SergioOficial/Ado-Bot)**, un ecosistema modular para WhatsApp basado en Node.js y **[Baileys](https://github.com/SergioOficial/ado-baileys)**
 - 🌱 **Aprendiendo**: Arquitecturas de microservicios, Inteligencia Artificial y optimización de bases de datos.
 - 💡 **Filosofía**: El código debe ser elegante, modular y no debe caerse.
 - 🎯 **Objetivo**: Contribuir a proyectos Open Source de alto impacto y seguir creando herramientas útiles para la comunidad.
@@ -75,15 +75,16 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
         <td align="center">
           <a href="https://github.com/riokuroxi-svg">
             <img src="https://github.com/riokuroxi-svg.png" width="80" style="border-radius: 50%;" alt="Roxi"/><br/>
-            <b>Roxi</b><br/>
+            <b>¡Tú!</b><br/>
             <sub>Desarrollo y Comandos</sub>
           </a>
         </td>
         <td align="center">
           <a href="https://github.com/SergioOficial">
             <img src="https://github.com/SergioOficial.png" width="80" style="border-radius: 50%;" alt="Sergio"/><br/>
-            <b>¡Yo!</b><br/>
+            <b>¡Tú!</b><br/>
             <sub>Líder del Proyecto</sub>
+            
           </a>
         </td>
       </tr>
@@ -93,7 +94,7 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
 </details>
 
 <details>
-  <summary><b>🌟 Ver Proyecto Destacado: Ado-Bot</b> (Clic para desplegar)</summary>
+  <summary><b>🌟 Ver Proyecto Destacados: Ado-Bot</b> (Clic para desplegar)</summary>
   <br/>
   <div align="center">
     <a href="https://github.com/SergioOficial/ado-Bot">
@@ -105,6 +106,16 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
       Cuenta con sistema de plugins, eventos dinámicos, multi-prefijo, sub-bots y Anti-Ban.
     </p>
     <a href="https://github.com/SergioOficial/ado-Bot">
+ <br/>
+   <a href="https://github.com/SergioOficial/ado-baileys">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-baileys&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-baileys"/>
+    </a>
+    <br/><br/>
+    <p>
+      <b>Ado-baileys</b> es un baileys creado para módulos de botones y packs. <br/>
+      Cuenta con sistema de creación de stickers y demas.
+    </p>
+    <a href="https://github.com/SergioOficial/ado-bot">
       <img src="https://img.shields.io/badge/Ver_Repositorio_Ado--Bot-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo"/>
     </a>
   </div>
