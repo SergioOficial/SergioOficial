@@ -97,7 +97,7 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
   <br/>
   <div align="center">
 
-    ---
+---
 
     <a href="https://github.com/SergioOficial/ado-bot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-Bot"/>
@@ -114,14 +114,18 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
     <br/><br/>
 
     <a href="https://github.com/SergioOficial/ado-baileys">
+
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-baileys&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-baileys"/>
     </a>
     <br/>
     <p>
+
       <b>Ado-Baileys</b> es un cliente de WhatsApp modificado para soportar módulos de botones y packs. <br/>
       Cuenta con sistema de creación de stickers con audio y más.
+
     </p>
     <a href="https://github.com/SergioOficial/ado-baileys">
+
       <img src="https://img.shields.io/badge/Ver_Repositorio_Ado--Baileys-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo"/>
     </a>
 
