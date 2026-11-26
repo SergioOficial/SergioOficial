@@ -96,8 +96,9 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
   <summary><b>🌟 Ver Proyectos Destacados</b> (Clic para desplegar)</summary>
   <br/>
   <div align="center">
-    
-    <!-- TARJETA ADO-BOT -->
+
+    ---
+
     <a href="https://github.com/SergioOficial/ado-bot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-Bot"/>
     </a>
@@ -112,7 +113,6 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
 
     <br/><br/>
 
-    <!-- TARJETA ADO-BAILEYS -->
     <a href="https://github.com/SergioOficial/ado-baileys">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-baileys&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-baileys"/>
     </a>
