@@ -57,14 +57,13 @@ Soy un desarrollador enfocado en la creación de arquitecturas backend, automati
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" height="160" alt="Lenguajes"/>
   </div>
 </details>
-
 <details>
   <summary><b>🤝 Mis Colaboradores Frecuentes</b> (Clic para desplegar)</summary>
   <br/>
   <div align="center">
     <p>Estas son las mentes brillantes con las que tengo el placer de trabajar:</p>
     <table>
-      <tr>
+      <br>
         <td align="center">
           <a href="https://github.com/levi-hub805">
             <img src="https://github.com/levi-hub805.png" width="80" style="border-radius: 50%;" alt="Jeferson"/><br/>
