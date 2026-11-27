@@ -36,7 +36,7 @@ Me interesa especialmente el desarrollo backend con **JavaScript y Node.js**, la
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github.com/SergioOficial.png" width="190" alt="Avatar de Sergio" />
+<img src="https://avatars.githubusercontent.com/u/261575256?v=4" width="190" height="190" style="border-radius: 50%; object-fit: cover; border: 3px solid #00d4aa;" alt="Foto de perfil de SergioOficial" />
 
 <br/>
 
