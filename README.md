@@ -1,126 +1,105 @@
 <div align="center">
-  <!-- BANNER SUPERIOR -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:ff007f&height=200&section=header&text=SergioOficial&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner"/>
-  
-  <!-- ANIMACIÓN DE TEXTO -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hola,+soy+Sergio+G%C3%B3mez+Gort;Desarrollador+de+Software+%26+Bots;Fundador+de+Ado-Bot;Apasionado+por+el+Open+Source" alt="Typing SVG" />
-  </a>
+
+<img src="./assets/hero.svg" width="100%" alt="Sergio Oficial — desarrollador de software, backend y automatización"/>
+
+<p>
+  <a href="#-sobre-mí">Sobre mí</a> ·
+  <a href="#-proyectos">Proyectos</a> ·
+  <a href="#-tecnologías">Tecnologías</a> ·
+  <a href="#-estadísticas">Estadísticas</a> ·
+  <a href="#-contacto">Contacto</a>
+</p>
+
+<a href="https://github.com/SergioOficial"><img src="https://img.shields.io/badge/GitHub-SergioOficial-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/SergioOficial?tab=repositories"><img src="https://img.shields.io/badge/PORTAFOLIO-VER_PROYECTOS-00bfa5?style=for-the-badge&logo=github" alt="Proyectos"/></a>
+<a href="https://github.com/SergioOficial?tab=followers"><img src="https://img.shields.io/github/followers/SergioOficial?style=for-the-badge&label=COMUNIDAD&color=8b5cf6" alt="Seguidores"/></a>
+
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<!-- FOTO Y REDES -->
-<div align="center">
-  <img src="https://github.com/SergioOficial.png" width="150" alt="Sergio Avatar"/>
-  
-  <h3>💻 Desarrollador Backend & Bot Developer</h3>
-  
-  <p align="center">
-    <a href="https://wa.me/5358090650"><img src="https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-    <a href="https://github.com/SergioOficial/ado-bot"><img src="https://img.shields.io/badge/Proyecto_Principal-Ado_Bot-00d4aa?style=for-the-badge&logo=github&logoColor=white" alt="Ado-Bot"/></a>
-    <a href="https://github.com/SergioOficial?tab=followers"><img src="https://img.shields.io/github/followers/SergioOficial?color=ff007f&label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores"/></a>
-    <img src="https://komarev.com/ghpvc/?username=SergioOficial&label=Visitas&color=00d4aa&style=for-the-badge" alt="Visitas"/>
-  </p>
-</div>
+## ✦ Sobre mí
 
----
-
-### 🚀 Sobre Mí
-
-Soy un desarrollador enfocado en la creación de arquitecturas backend, automatización y sistemas Multi-Device. Mi objetivo es construir herramientas modulares, eficientes y escalables, con un código limpio y fácil de mantener.
-
-- 🛠️ **Actualmente**: Liderando el desarrollo de **[Ado-Bot](https://github.com/SergioOficial/ado-bot)**, un ecosistema modular para WhatsApp basado en Node.js y **[Ado-Baileys](https://github.com/SergioOficial/ado-baileys)**.
-- 🌱 **Aprendiendo**: Arquitecturas de microservicios, Inteligencia Artificial y optimización de bases de datos.
-- 💡 **Filosofía**: El código debe ser elegante, modular y no debe caerse.
-- 🎯 **Objetivo**: Contribuir a proyectos Open Source de alto impacto y seguir creando herramientas útiles para la comunidad.
-
----
-
-### 🛠️ Stack Tecnológico
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,linux,mongodb,bash,github,vscode,express&theme=dark" alt="Tech Stack" />
-</div>
-
-<br/>
-
----
-
-<!-- SECCIONES DESPLEGABLES (ACORDEONES) -->
-<details>
-<summary><b>📊 Ver mis Estadísticas de GitHub</b> (Clic para desplegar)</summary>
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SergioOficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" height="160" alt="Estadísticas de Sergio"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" height="160" alt="Lenguajes"/>
-</div>
-</details>
-
-<details>
-<summary><b>🤝 Mis Colaboradores Frecuentes</b> (Clic para desplegar)</summary>
-<br>
-<div align="center">
-<p>Estas son las mentes brillantes con las que tengo el placer de trabajar:</p>
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/levi-hub805">
-<img src="https://github.com/levi-hub805.png" width="80" style="border-radius: 50%;" alt="Jeferson"/><br/>
-<b>Jeferson Fernández</b><br/>
-<sub>Co-fundador & Dev</sub>
-</a>
+<td width="62%" valign="top">
+
+¡Hola! Soy **Sergio Gómez Gort**, desarrollador de software enfocado en crear herramientas, automatizaciones y proyectos de código abierto.
+
+Me interesa especialmente el desarrollo backend con **JavaScript y Node.js**, la arquitectura modular y los bots para plataformas de mensajería. Disfruto transformar ideas en proyectos mantenibles, documentados y útiles para otras personas.
+
+- ⚙️ **Construyendo:** [Ado-Bot](https://github.com/SergioOficial/ado-bot), un proyecto de bot para WhatsApp.
+- 🧩 **Desarrollando:** [Ado-Baileys](https://github.com/SergioOficial/ado-baileys), librería relacionada con ese ecosistema.
+- 🧠 **Explorando:** automatización, inteligencia artificial y diseño de sistemas.
+- 🤝 **Colaboración:** abierto a contribuciones y proyectos Open Source.
+
 </td>
-<td align="center">
-<a href="https://github.com/riokuroxi-svg">
-<img src="https://github.com/riokuroxi-svg.png" width="80" style="border-radius: 50%;" alt="Roxi"/><br/>
-<b>riokuroxi-svg</b><br/>
-<sub>Desarrollo y Comandos</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/SergioOficial">
-<img src="https://github.com/SergioOficial.png" width="80" style="border-radius: 50%;" alt="Sergio"/><br/>
-<b>Sergio Dev</b><br/>
-<sub>Líder del Proyecto</sub>
-</a>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://avatars.githubusercontent.com/u/261575256?v=4" width="190" height="190" style="border-radius: 50%; object-fit: cover; border: 3px solid #00d4aa;" alt="Foto de perfil de SergioOficial" />
+
+<br/>
+
+<sub>Backend · Bots · Open Source</sub>
+
 </td>
 </tr>
 </table>
-<p><i>(Si quieres colaborar en Ado-Bot, ¡abre un Pull Request!)</i></p>
-</div>
-</details>
 
-<details>
-<summary><b>🌟 Ver Proyectos Destacados</b> (Clic para desplegar)</summary>
-<br>
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ✧ Proyectos
+
+<p align="center">
+  <a href="https://github.com/SergioOficial/ado-bot"><img src="./assets/project-ado-bot.svg" width="49%" alt="Ado-Bot — bot modular para WhatsApp"/></a>
+  <a href="https://github.com/SergioOficial/ado-baileys"><img src="./assets/project-ado-baileys.svg" width="49%" alt="Ado-Baileys — librería y utilidades para WhatsApp"/></a>
+</p>
+
+| Proyecto | Descripción |
+|:--|:--|
+| [Ado-Bot](https://github.com/SergioOficial/ado-bot) | Bot de WhatsApp con enfoque modular y extensible. Consulta el repositorio para conocer sus funciones y requisitos actuales. |
+| [Ado-Baileys](https://github.com/SergioOficial/ado-baileys) | Paquete basado en Baileys que reúne la integración principal y utilidades adicionales. |
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ⌘ Tecnologías
+
 <div align="center">
-<a href="https://github.com/SergioOficial/ado-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-Bot"/>
-</a>
-<br/>
-<p><b>Ado-Bot</b> es un bot de WhatsApp Multi-Device modular.<br/>Cuenta con sistema de plugins, eventos dinámicos, multi-prefijo, sub-bots y Anti-Ban.</p>
-<a href="https://github.com/SergioOficial/ado-bot"><img src="https://img.shields.io/badge/Ver_Repositorio_Ado--Bot-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo"/></a>
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,linux,mongodb,git,github,vscode,express&theme=dark" alt="JavaScript, Node.js, Python, Bash, Linux, MongoDB, Git, GitHub, VS Code y Express"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ◈ Estadísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SergioOficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=8b5cf6&text_color=c9d1d9" alt="Estadísticas de GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioOficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Lenguajes más utilizados"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ☏ Contacto
+
+<div align="center">
+
+¿Te interesa alguno de mis proyectos? Puedes explorar el código, abrir un issue o contribuir mediante un pull request.
+
+<a href="https://github.com/SergioOficial"><img src="https://img.shields.io/badge/GitHub-SergioOficial-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/SergioOficial?tab=repositories"><img src="https://img.shields.io/badge/Explorar-Repositorios-00bfa5?style=for-the-badge&logo=github" alt="Repositorios"/></a>
+
 <br/><br/>
-<a href="https://github.com/SergioOficial/ado-baileys">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioOficial&repo=ado-baileys&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=ff007f&text_color=c9d1d9" alt="Ado-baileys"/>
-</a>
-<br/>
-<p><b>Ado-Baileys</b> es un cliente de WhatsApp modificado para soportar módulos de botones y packs.<br/>Cuenta con sistema de creación de stickers con audio y más.</p>
-<a href="https://github.com/SergioOficial/ado-baileys"><img src="https://img.shields.io/badge/Ver_Repositorio_Ado--Baileys-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repo"/></a>
-</div>
-</details>
+
+<sub>«La automatización no es magia: es creatividad, lógica y código.»</sub>
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-  <p><i>"La automatización no es magia, es código bien escrito."</i></p>
-</div>
+<sub>Hecho con dedicación desde Cuba para la comunidad global 🌎</sub>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00d4aa&height=120&section=footer" width="100%" alt="Footer Banner"/>
-  <br/>
-  <i>Hecho con 💫 desde Cuba para el mundo</i>
 </div>
